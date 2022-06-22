@@ -1,7 +1,14 @@
 # Bienvenidos a mi Portafolio
 
-Mi nombre es Cesar Augusto, soy estudiante de Ing. de TELECOMUNICACIONES.
-Conozco Python ,Spyder. Tengo poca experiencia en este nuevo mundo  🥉 .
+Edad : 20 añitos nada mas 🥉.
+Nombre : Cesar Augusto Challco Anccasi
+Actualmente estudiante de la escuela de Ing. de Telecomunicaciones, curso el segundo año en esta carrera, espero seguir asi hasta terminar los 5 años.
+
+Este perfil esta basicamente hecho para la tarea de computo . Es interesante hacer esta clase de cosas, sumergirse en un nuevo mundo que es de la programacion .
+
+-Aqui puede que encuentras las tareas de computo .
+
+Espero te sirva este perfil :3
 
 Espero poder ayudar con las practicas, aun esta en actualizaciones esta parte , nuevas novedades , en la proxima visita .
 
